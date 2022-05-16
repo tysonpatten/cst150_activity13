@@ -3,7 +3,7 @@
 - tyson patten
 - gcu
 - cst 150
-- t's and e's
+- tic tac toe
 
 A windows forms application in which I:
 - create and utilize a two-dimensional array to manage a collection of data
